@@ -1,1 +1,2 @@
-profile: test-dev
+profile1: test-dev
+profile2: '{cipher}test'
